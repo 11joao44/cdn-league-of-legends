@@ -1,0 +1,812 @@
+[
+    {
+        "champion": "Aatrox",
+        "skin": "Mecha",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/aatrox-mecha-762x.jpg"
+    },
+    {
+        "champion": "Ahri",
+        "skin": "Kda",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ahri-kda-762x.jpg"
+    },
+    {
+        "champion": "Akali",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/akali-project-762x.jpg"
+    },
+    {
+        "champion": "Akshan",
+        "skin": "Cyberpop",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/akshan-cyberpop-762x.jpg"
+    },
+    {
+        "champion": "Alistar",
+        "skin": "Marauder",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/alistar-marauder-762x.jpg"
+    },
+    {
+        "champion": "Amumu",
+        "skin": "Little Knight",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/amumu-little-knight-762x.jpg"
+    },
+    {
+        "champion": "Anivia",
+        "skin": "Cosmic Flight",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/anivia-cosmic-flight-762x.jpg"
+    },
+    {
+        "champion": "Annie",
+        "skin": "Goth",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/annie-goth-762x.jpg"
+    },
+    {
+        "champion": "Aphelios",
+        "skin": "Nightbringer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/aphelios-nightbringer-762x.jpg"
+    },
+    {
+        "champion": "Ashe",
+        "skin": "Championship",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ashe-championship-762x.jpg"
+    },
+    {
+        "champion": "Aurelion Sol",
+        "skin": "Storm Dragon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/aurelionsol-storm-dragon-762x.jpg"
+    },
+    {
+        "champion": "Azir",
+        "skin": "Galactic",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/azir-galactic-762x.jpg"
+    },
+    {
+        "champion": "Bard",
+        "skin": "Astronaut",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/bard-astronaut-762x.jpg"
+    },
+    {
+        "champion": "Bel'Veth",
+        "skin": "Battle Boss",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/belveth-battle-boss-762x.jpg"
+    },
+    {
+        "champion": "Blitzcrank",
+        "skin": "Boom Boom",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/blitzcrank-boom-boom-762x.jpg"
+    },
+    {
+        "champion": "Brand",
+        "skin": "Spirit Fire",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/brand-spirit-fire-762x.jpg"
+    },
+    {
+        "champion": "Braum",
+        "skin": "Santa",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/braum-santa-762x.jpg"
+    },
+    {
+        "champion": "Caitlyn",
+        "skin": "Arcade",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/caitlyn-arcade-762x.jpg"
+    },
+    {
+        "champion": "Camille",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/camille-project-762x.jpg"
+    },
+    {
+        "champion": "Cassiopeia",
+        "skin": "Spirit Blossom",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/cassiopeia-spirit-blossom-762x.jpg"
+    },
+    {
+        "champion": "Cho'Gath",
+        "skin": "Dark Star",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/chogath-dark-star-762x.jpg"
+    },
+    {
+        "champion": "Corki",
+        "skin": "Arcade",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/corki-arcade-762x.jpg"
+    },
+    {
+        "champion": "Darius",
+        "skin": "God King",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/darius-god-king-762x.jpg"
+    },
+    {
+        "champion": "Diana",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/diana-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Dr. Mundo",
+        "skin": "Corporate",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/dr.mundo-corporate-762x.jpg"
+    },
+    {
+        "champion": "Draven",
+        "skin": "Gladiator",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/draven-gladiator-762x.jpg"
+    },
+    {
+        "champion": "Ekko",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ekko-project-762x.jpg"
+    },
+    {
+        "champion": "Elise",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/elise-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Evelynn",
+        "skin": "Kda",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/evelynn-kda-762x.jpg"
+    },
+    {
+        "champion": "Ezreal",
+        "skin": "Pulsefire",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ezreal-pulsefire-762x.jpg"
+    },
+    {
+        "champion": "Fiddlesticks",
+        "skin": "Candy",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/fiddlesticks-candy-762x.jpg"
+    },
+    {
+        "champion": "Fiora",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/fiora-project-762x.jpg"
+    },
+    {
+        "champion": "Fizz",
+        "skin": "Fisherman",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/fizz-fisherman-762x.jpg"
+    },
+    {
+        "champion": "Galio",
+        "skin": "Gatekeeper",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/galio-gatekeeper-762x.jpg"
+    },
+    {
+        "champion": "Gangplank",
+        "skin": "Captain",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/gangplank-captain-762x.jpg"
+    },
+    {
+        "champion": "Garen",
+        "skin": "Dreadknight",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/garen-dreadknight-762x.jpg"
+    },
+    {
+        "champion": "Gnar",
+        "skin": "Dino",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/gnar-dino-762x.jpg"
+    },
+    {
+        "champion": "Gragas",
+        "skin": "Santa",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/gragas-santa-762x.jpg"
+    },
+    {
+        "champion": "Graves",
+        "skin": "Pool Party",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/graves-pool-party-762x.jpg"
+    },
+    {
+        "champion": "Gwen",
+        "skin": "Space Groove",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/gwen-space-groove-762x.jpg"
+    },
+    {
+        "champion": "Hecarim",
+        "skin": "Arcade",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/hecarim-arcade-762x.jpg"
+    },
+    {
+        "champion": "Heimerdinger",
+        "skin": "Alien Invader",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/heimerdinger-alien-invader-762x.jpg"
+    },
+    {
+        "champion": "Illaoi",
+        "skin": "Resistance",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/illaoi-resistance-762x.jpg"
+    },
+    {
+        "champion": "Irelia",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/irelia-project-762x.jpg"
+    },
+    {
+        "champion": "Ivern",
+        "skin": "Candy",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ivern-candy-762x.jpg"
+    },
+    {
+        "champion": "Janna",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/janna-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Jarvan IV",
+        "skin": "Hextech",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/jarvaniv-hextech-762x.jpg"
+    },
+    {
+        "champion": "Jax",
+        "skin": "Mecha",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/jax-mecha-762x.jpg"
+    },
+    {
+        "champion": "Jayce",
+        "skin": "Forsaken",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/jayce-forsaken-762x.jpg"
+    },
+    {
+        "champion": "Jhin",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/jhin-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Jinx",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/jinx-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Kai'Sa",
+        "skin": "Kda",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kaisa-kda-762x.jpg"
+    },
+    {
+        "champion": "Kalista",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kalista-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Karma",
+        "skin": "Odyssey",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/karma-odyssey-762x.jpg"
+    },
+    {
+        "champion": "Karthus",
+        "skin": "Pentakill",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/karthus-pentakill-762x.jpg"
+    },
+    {
+        "champion": "Kassadin",
+        "skin": "Cosmic",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kassadin-cosmic-762x.jpg"
+    },
+    {
+        "champion": "Katarina",
+        "skin": "Battle Academia",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/katarina-battle-academia-762x.jpg"
+    },
+    {
+        "champion": "Kayle",
+        "skin": "Aether Wing",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kayle-aether-wing-762x.jpg"
+    },
+    {
+        "champion": "Kayn",
+        "skin": "Nightbringer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kayn-nightbringer-762x.jpg"
+    },
+    {
+        "champion": "Kennen",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kennen-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Kha'Zix",
+        "skin": "Mecha",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/khazix-mecha-762x.jpg"
+    },
+    {
+        "champion": "Kindred",
+        "skin": "Spirit Blossom",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kindred-spirit-blossom-762x.jpg"
+    },
+    {
+        "champion": "Kled",
+        "skin": "Sir",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kled-sir-762x.jpg"
+    },
+    {
+        "champion": "Kog'Maw",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/kogmaw-battlecast-762x.jpg"
+    },
+    {
+        "champion": "KSante",
+        "skin": "Empire",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ksante-empire-762x.jpg"
+    },
+    {
+        "champion": "LeBlanc",
+        "skin": "Prestige",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/leblanc-prestige-762x.jpg"
+    },
+    {
+        "champion": "Lee Sin",
+        "skin": "Knockout",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/leesin-knockout-762x.jpg"
+    },
+    {
+        "champion": "Leona",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/leona-project-762x.jpg"
+    },
+    {
+        "champion": "Lillia",
+        "skin": "Spirit Blossom",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/lillia-spirit-blossom-762x.jpg"
+    },
+    {
+        "champion": "Lissandra",
+        "skin": "Cosmic",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/lissandra-cosmic-762x.jpg"
+    },
+    {
+        "champion": "Lucian",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/lucian-project-762x.jpg"
+    },
+    {
+        "champion": "Lulu",
+        "skin": "Cosmic",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/lulu-cosmic-762x.jpg"
+    },
+    {
+        "champion": "Lux",
+        "skin": "Elementalist",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/lux-elementalist-762x.jpg"
+    },
+    {
+        "champion": "Malphite",
+        "skin": "Odyssey",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/malphite-odyssey-762x.jpg"
+    },
+    {
+        "champion": "Malzahar",
+        "skin": "Battle Boss",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/malzahar-battle-boss-762x.jpg"
+    },
+    {
+        "champion": "Maokai",
+        "skin": "Festive",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/maokai-festive-762x.jpg"
+    },
+    {
+        "champion": "Master Yi",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/masteryi-project-762x.jpg"
+    },
+    {
+        "champion": "Miss Fortune",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/missfortune-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Mordekaiser",
+        "skin": "Dark Star",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/mordekaiser-dark-star-762x.jpg"
+    },
+    {
+        "champion": "Morgana",
+        "skin": "Blackthorn",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/morgana-blackthorn-762x.jpg"
+    },
+    {
+        "champion": "Nami",
+        "skin": "Space Groove",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nami-space-groove-762x.jpg"
+    },
+    {
+        "champion": "Nasus",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nasus-battlecast-762x.jpg"
+    },
+    {
+        "champion": "Nautilus",
+        "skin": "Astronaut",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nautilus-astronaut-762x.jpg"
+    },
+    {
+        "champion": "Neeko",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/neeko-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Nidalee",
+        "skin": "Headhunter",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nidalee-headhunter-762x.jpg"
+    },
+    {
+        "champion": "Nilah",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nilah-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Nocturne",
+        "skin": "Eternal",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nocturne-eternal-762x.jpg"
+    },
+    {
+        "champion": "Nunu & Willump",
+        "skin": "Zombie",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/nunuandwillump-zombie-762x.jpg"
+    },
+    {
+        "champion": "Olaf",
+        "skin": "Brolaf",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/olaf-brolaf-762x.jpg"
+    },
+    {
+        "champion": "Orianna",
+        "skin": "Victorious",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/orianna-victorious-762x.jpg"
+    },
+    {
+        "champion": "Ornn",
+        "skin": "Elderwood",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ornn-elderwood-762x.jpg"
+    },
+    {
+        "champion": "Pantheon",
+        "skin": "Dragonslayer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/pantheon-dragonslayer-762x.jpg"
+    },
+    {
+        "champion": "Poppy",
+        "skin": "Battle Regalia",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/poppy-battle-regalia-762x.jpg"
+    },
+    {
+        "champion": "Pyke",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/pyke-project-762x.jpg"
+    },
+    {
+        "champion": "Qiyana",
+        "skin": "Battle Boss",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/qiyana-battle-boss-762x.jpg"
+    },
+    {
+        "champion": "Quinn",
+        "skin": "Phoenix",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/quinn-phoenix-762x.jpg"
+    },
+    {
+        "champion": "Rakan",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/rakan-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Rammus",
+        "skin": "Hextech",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/rammus-hextech-762x.jpg"
+    },
+    {
+        "champion": "Rek'Sai",
+        "skin": "Eternal",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/reksai-eternal-762x.jpg"
+    },
+    {
+        "champion": "Rell",
+        "skin": "Battle Queen",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/rell-battle-queen-762x.jpg"
+    },
+    {
+        "champion": "Renata Glasc",
+        "skin": "Admiral",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/renataglasc-admiral-762x.jpg"
+    },
+    {
+        "champion": "Renekton",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/renekton-project-762x.jpg"
+    },
+    {
+        "champion": "Rengar",
+        "skin": "Headhunter",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/rengar-headhunter-762x.jpg"
+    },
+    {
+        "champion": "Riven",
+        "skin": "Arcade",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/riven-arcade-762x.jpg"
+    },
+    {
+        "champion": "Rumble",
+        "skin": "Supergalaxy",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/rumble-supergalaxy-762x.jpg"
+    },
+    {
+        "champion": "Ryze",
+        "skin": "Dark Crystal",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ryze-dark-crystal-762x.jpg"
+    },
+    {
+        "champion": "Samira",
+        "skin": "Psyops",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/samira-psyops-762x.jpg"
+    },
+    {
+        "champion": "Sejuani",
+        "skin": "Hextech",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sejuani-hextech-762x.jpg"
+    },
+    {
+        "champion": "Senna",
+        "skin": "Prestige",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/senna-prestige-762x.jpg"
+    },
+    {
+        "champion": "Seraphine",
+        "skin": "Kda",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/seraphine-kda-762x.jpg"
+    },
+    {
+        "champion": "Sett",
+        "skin": "Mecha",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sett-mecha-762x.jpg"
+    },
+    {
+        "champion": "Shaco",
+        "skin": "Mad Hatter",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/shaco-mad-hatter-762x.jpg"
+    },
+    {
+        "champion": "Shen",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/shen-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Shyvana",
+        "skin": "Dragonslayer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/shyvana-dragonslayer-762x.jpg"
+    },
+    {
+        "champion": "Singed",
+        "skin": "Mad Scientist",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/singed-mad-scientist-762x.jpg"
+    },
+    {
+        "champion": "Sion",
+        "skin": "Mecha",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sion-mecha-762x.jpg"
+    },
+    {
+        "champion": "Sivir",
+        "skin": "Victorious",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sivir-victorious-762x.jpg"
+    },
+    {
+        "champion": "Skarner",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/skarner-battlecast-762x.jpg"
+    },
+    {
+        "champion": "Sona",
+        "skin": "Dj",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sona-dj-762x.jpg"
+    },
+    {
+        "champion": "Soraka",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/soraka-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Swain",
+        "skin": "Dragon Master",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/swain-dragon-master-762x.jpg"
+    },
+    {
+        "champion": "Sylas",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/sylas-project-762x.jpg"
+    },
+    {
+        "champion": "Syndra",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/syndra-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Tahm Kench",
+        "skin": "Urfrider",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/tahmkench-urfrider-762x.jpg"
+    },
+    {
+        "champion": "Taliyah",
+        "skin": "Hextech",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/taliyah-hextech-762x.jpg"
+    },
+    {
+        "champion": "Talon",
+        "skin": "Blood Moon",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/talon-blood-moon-762x.jpg"
+    },
+    {
+        "champion": "Taric",
+        "skin": "Cosmic",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/taric-cosmic-762x.jpg"
+    },
+    {
+        "champion": "Teemo",
+        "skin": "Beemo",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/teemo-beemo-762x.jpg"
+    },
+    {
+        "champion": "Thresh",
+        "skin": "Dark Star",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/thresh-dark-star-762x.jpg"
+    },
+    {
+        "champion": "Tristana",
+        "skin": "Dragon Trainer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/tristana-dragon-trainer-762x.jpg"
+    },
+    {
+        "champion": "Trundle",
+        "skin": "Dragonslayer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/trundle-dragonslayer-762x.jpg"
+    },
+    {
+        "champion": "Tryndamere",
+        "skin": "Demonblade",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/tryndamere-demonblade-762x.jpg"
+    },
+    {
+        "champion": "Twisted Fate",
+        "skin": "Pulsefire",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/twistedfate-pulsefire-762x.jpg"
+    },
+    {
+        "champion": "Twitch",
+        "skin": "Pickpocket",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/twitch-pickpocket-762x.jpg"
+    },
+    {
+        "champion": "Udyr",
+        "skin": "Spirit Guard",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/udyr-spirit-guard-762x.jpg"
+    },
+    {
+        "champion": "Urgot",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/urgot-battlecast-762x.jpg"
+    },
+    {
+        "champion": "Varus",
+        "skin": "Arclight",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/varus-arclight-762x.jpg"
+    },
+    {
+        "champion": "Vayne",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/vayne-project-762x.jpg"
+    },
+    {
+        "champion": "Veigar",
+        "skin": "Final Boss",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/veigar-final-boss-762x.jpg"
+    },
+    {
+        "champion": "Vel'Koz",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/velkoz-battlecast-762x.jpg"
+    },
+    {
+        "champion": "Vex",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/vex-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Vi",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/vi-project-762x.jpg"
+    },
+    {
+        "champion": "Viego",
+        "skin": "Ruined",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/viego-ruined-762x.jpg"
+    },
+    {
+        "champion": "Viktor",
+        "skin": "Deathsworn",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/viktor-deathsworn-762x.jpg"
+    },
+    {
+        "champion": "Vladimir",
+        "skin": "Dark Water",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/vladimir-dark-water-762x.jpg"
+    },
+    {
+        "champion": "Volibear",
+        "skin": "Elderwood",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/volibear-elderwood-762x.jpg"
+    },
+    {
+        "champion": "Warwick",
+        "skin": "Firefang",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/warwick-firefang-762x.jpg"
+    },
+    {
+        "champion": "Wukong",
+        "skin": "Battle Academia",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/wukong-battle-academia-762x.jpg"
+    },
+    {
+        "champion": "Xayah",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/xayah-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Xerath",
+        "skin": "Battlecast",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/xerath-battlecast-762x.jpg"
+    },
+    {
+        "champion": "Xin Zhao",
+        "skin": "Dragonslayer",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/xinzhao-dragonslayer-762x.jpg"
+    },
+    {
+        "champion": "Yasuo",
+        "skin": "Odyssey",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/yasuo-odyssey-762x.jpg"
+    },
+    {
+        "champion": "Yone",
+        "skin": "Battle Academia",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/yone-battle-academia-762x.jpg"
+    },
+    {
+        "champion": "Yorick",
+        "skin": "Meowrick",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/yorick-meowrick-762x.jpg"
+    },
+    {
+        "champion": "Yuumi",
+        "skin": "Battle Principal",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/yuumi-battle-principal-762x.jpg"
+    },
+    {
+        "champion": "Zac",
+        "skin": "Pool Party",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zac-pool-party-762x.jpg"
+    },
+    {
+        "champion": "Zed",
+        "skin": "Project",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zed-project-762x.jpg"
+    },
+    {
+        "champion": "Zeri",
+        "skin": "Withered Rose",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zeri-withered-rose-762x.jpg"
+    },
+    {
+        "champion": "Ziggs",
+        "skin": "Odyssey",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/ziggs-odyssey-762x.jpg"
+    },
+    {
+        "champion": "Zilean",
+        "skin": "Time Machine",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zilean-time-machine-762x.jpg"
+    },
+    {
+        "champion": "Zoe",
+        "skin": "Star Guardian",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zoe-star-guardian-762x.jpg"
+    },
+    {
+        "champion": "Zyra",
+        "skin": "Wildfire",
+        "url": "https://www.mobafire.com/images/champion/skins/landscape/zyra-wildfire-762x.jpg"
+    }
+]
