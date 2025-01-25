@@ -2,28 +2,29 @@ import fs from 'fs';
 import path from 'path';
 
 export default function handler(req, res) {
-  const filePath = path.resolve('./mastery-rank.json'); // Caminho para o arquivo na raiz
-  console.log('Requisição recebida:', req.method, req.body);
+  const filePath = path.resolve('./mastery-rank.json'); // Caminho para o arquivo JSON na raiz
+  console.log('Método da requisição:', req.method);
 
   if (req.method === 'POST') {
     try {
-      // Lê o arquivo existente
+      console.log('Dados recebidos:', req.body);
+
+      // Ler o JSON existente
       let existingData = [];
       if (fs.existsSync(filePath)) {
         const fileContent = fs.readFileSync(filePath, 'utf-8');
+        console.log('Conteúdo atual do JSON:', fileContent);
         existingData = JSON.parse(fileContent);
       }
 
+      // Atualizar ou adicionar dados
       const newEntry = req.body;
-      console.log('Dados recebidos para atualização:', newEntry);
-
-      // Atualiza ou adiciona o jogador
       const updatedData = existingData.filter((entry) => entry.summonerName !== newEntry.summonerName);
       updatedData.push(newEntry);
 
-      // Salva o arquivo atualizado
+      // Escrever no arquivo JSON
       fs.writeFileSync(filePath, JSON.stringify(updatedData, null, 2));
-      console.log('JSON atualizado com sucesso.');
+      console.log('Arquivo JSON atualizado com sucesso.');
 
       res.status(200).json({ message: 'Dados atualizados com sucesso.' });
     } catch (error) {
