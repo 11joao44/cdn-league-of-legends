@@ -1,38 +1,3 @@
 [
-  {
-    "puuid": "NCSWMo-ey-MRQKn9fLxWuzs011YUyW0pcuH7x3xSQubEN1l6_8NFYz9x-btIYI5VJJ7kN7u_x79s7w",
-    "key": "17",
-    "name": "Teemo",
-    "summonerId": "W4mV5xepksKRVakt33mAd4E2kPPqmZHhdEXajO4UUr5j",
-    "championName": "Teemo",
-    "summonerName": "Arthur Lanches",
-    "masteryPoints": "5.338.011 pts",
-    "championIcon": "https://ddragon.leagueoflegends.com/cdn/15.2.1/img/champion/Teemo.png",
-    "masteryLevel": 487,
-    "lastGame": "23/01/2025, 18:35:00"
-  },
-  {
-    "puuid": "O0D3o_TB4Ls910kTDss3bYYdkZeI5lP9a8oABAWDhLLbbROIz8Rp5MH9EFgU1j4l6zmc4t05V3kfHw",
-    "key": "24",
-    "name": "Jax",
-    "summonerId": "bocZdHMSS5OJASeuL2kHk9GN_Rvq9mhr_xVGVL42h6wiFl0",
-    "championName": "Jax",
-    "summonerName": "MadaraUchihaR",
-    "masteryPoints": "516.042 pts",
-    "championIcon": "https://ddragon.leagueoflegends.com/cdn/15.2.1/img/champion/Jax.png",
-    "masteryLevel": 44,
-    "lastGame": "23/01/2025, 16:13:03"
-  },
-  {
-    "puuid": "bzmpUMdw0dwcJ3KeQ-RWuL59pM9FiTvetxsN9JeTDalqrV2gPgfSnLZwu2GjVx1LfkpnnQaiL1fUHg",
-    "key": "99",
-    "name": "Lux",
-    "summonerId": "ZPPM7qlDekEipaxcya8adIs7J3J6HJAkpDBtdxkFptY4IYI",
-    "championName": "Lux",
-    "summonerName": "SakuraKou7",
-    "masteryPoints": "209.028 pts",
-    "championIcon": "https://ddragon.leagueoflegends.com/cdn/15.2.1/img/champion/Lux.png",
-    "masteryLevel": 19,
-    "lastGame": "24/01/2025, 20:20:27"
-  }
+
 ]
